@@ -1,2 +1,3 @@
 Nama: Tezar Surya Fernanda
 Stack: Frontend
+Deskripsi: Saya suka programming karena selalu ada hal baru yang bisa dipelajari
